@@ -1,0 +1,11 @@
+{
+    "name":"Nadeem Silawat",
+    "age":25,
+    "city":"Mumbai",
+    "country":"India",
+    "hobbies":["reading","swimming","coding"],
+    "address":{
+        "street":"123, ABC Road",
+        "apartment":"101"
+    }
+}
